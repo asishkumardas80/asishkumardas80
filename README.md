@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Java , Spring Boot ,JSP,HTML,CSS,MVC architecture**
 
-- 📫 How to reach me **asish.kd80@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/asish-kd/](https://www.linkedin.com/in/asish-kd/)
 
 ### Blogs posts
